@@ -492,7 +492,7 @@ function handleEscKey() {
 
 function handleTyping () {
   $(".element").typed({
-    strings: ["a Software Engineer","a Competitive Gamer", "a System Builder", "a Fitness Enthusiast" , "a Corny Joke Connoisseur" ],
+    strings: ["a Software Engineer","a Basketball Lover", "a System Builder", "a Fitness Enthusiast" , "a Corny Joke Connoisseur" ],
     typeSpeed: 50,
     starDelay: 200,
     backDelay: 600,
